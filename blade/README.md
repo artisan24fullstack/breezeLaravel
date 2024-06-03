@@ -13,3 +13,8 @@ npm run dev
  ```
 php artisan make:model -mrc Chirp
  ```
+
+## Authorization Model Policy
+ ```
+php artisan make:policy ChirpPolicy --model=Chirp
+ ```
