@@ -1,3 +1,6 @@
+# Deviens un Artisan du Web !
+- https://bootcamp.laravel.com/blade/installation 
+- https://www.youtube.com/watch?v=YXGTiqCfAWw (laravel version 10)
 
 ## SQLITE
 
@@ -18,3 +21,5 @@ php artisan make:model -mrc Chirp
  ```
 php artisan make:policy ChirpPolicy --model=Chirp
  ```
+
+
